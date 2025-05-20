@@ -1,0 +1,12 @@
+langchain>=0.1.0
+langchain-community>=0.0.10
+langchain-groq>=0.0.3
+langchain-experimental>=0.0.40
+neo4j>=5.14.0
+wikipedia>=1.4.0
+tiktoken>=0.5.0
+yfiles_jupyter_graphs>=1.4.4
+sentence-transformers>=2.2.2
+pydantic>=2.0.0
+typing>=3.7.4
+python-dotenv>=1.0.0
